@@ -8,6 +8,17 @@
 This bot uses the new version of [discord.py v1.0+](https://github.com/Rapptz/discord.py/tree/rewrite)
 Will add more features as I discover stuff.Basic functionality (kick,ban,unban etc.) and an anime function for getting info about anime is currently added.
 
+# Planned Features:
+Item|Description|Status
+------------|------------|-------
+1|Add Reverse search functionality (sauce bot)|Working on it
+2|Add translations module|Working on it
+3|Add Bot config/utilities module|Working on it
+4|Create a warn system|To be started
+5|Add more features (mostly will kang ideas from others :P or u can suggest me!)|TBD
+6|Revamp the deployment method|I have no clue >.<
+
+
 # Using `pip install discord.py` will install the latest discord.py version. 
 Install all requirements and run the main.py script on the server of your choice.
 
