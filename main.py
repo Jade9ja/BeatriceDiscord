@@ -3,7 +3,7 @@ from discord.ext import commands
 import io
 import os
 import aiohttp
-
+BOT_TOKEN = '<Your bot token here>'
 client = commands.Bot(command_prefix = '/')
 
 @client.event
@@ -22,4 +22,4 @@ for filename in os.listdir('./cogs'):
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
-client.run('NzEwMDQ5Njg3NTUzNDQxODYy.Xru1Iw.esSQm4WV4TX3FcZQI49mvxoGnlg')
+client.run('BOT_TOKEN')
