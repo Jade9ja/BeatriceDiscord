@@ -8,7 +8,8 @@
 This bot uses the new version of [discord.py v1.0+](https://github.com/Rapptz/discord.py/tree/rewrite)
 Will add more features as I discover stuff.Basic functionality (kick,ban,unban etc.) and an anime function for getting info about anime is currently added.
 
-# Using `pip install discord.py` will install the latest discord.py version.
+# Using `pip install discord.py` will install the latest discord.py version. 
+Install all requirements and run the main.py script on the server of your choice.
 
 Full list of requirements
 -------------
