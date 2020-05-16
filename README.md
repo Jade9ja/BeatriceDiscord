@@ -1,6 +1,6 @@
 # Beatrice-Chan
 ![Avatar](https://static.myfigurecollection.net/pics/figure/big/436644.jpg)
-
+Image not owned by me!
 
 [![Python3](https://img.shields.io/badge/python-3.7-blue.svg)](https://github.com/Jade9ja/AspiritusDiscord)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Jade9ja/AspiritusDiscord/blob/master/LICENSE)
