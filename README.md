@@ -74,3 +74,5 @@ License
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+# Credits
+Thanks to Myanimelist.net, Abhinav(https://github.com/abhinavk99) for Jikanpy wrapper,Discord.py and many more others..(sorry if I missed to give proper credit..I am just starting out.)
