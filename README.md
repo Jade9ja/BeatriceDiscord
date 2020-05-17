@@ -1,4 +1,4 @@
-# Beatrice-Chan
+# Beatrice
 ![Avatar](https://static.myfigurecollection.net/pics/figure/big/436644.jpg)
 
 [![Python3](https://img.shields.io/badge/python-3.7-blue.svg)](https://github.com/Jade9ja/AspiritusDiscord)
