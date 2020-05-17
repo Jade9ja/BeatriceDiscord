@@ -10,7 +10,7 @@ Will add more features as I discover stuff.Basic functionality (kick,ban,unban e
 # Planned Features:
 Item|Description|Status
 ------------|------------|-------
-1|Add Reverse search functionality (sauce bot)|Working on it
+1|Add Reverse search functionality (sauce)|Added.
 2|Add translations module|Working on it
 3|Add Bot config/utilities module|Working on it
 4|Create a warn system|To be started
