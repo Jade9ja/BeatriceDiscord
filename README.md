@@ -43,7 +43,7 @@ Command and Aliases | Description | Example
 # Sauce
   Command and Aliases | Description | Example
 ----------------|--------------|-------
-`/sauce <image url (must end with extension)>` | Try to find the anime to which the image in question belongs to.(jpg,png,gif supported) | `/sauce https://somerubbish.com/naruto.jpg`
+`/sauce <image url>` | Try to find the anime to which the image in question belongs to.(jpg,png,gif supported) | `/sauce https://somerubbish.com/naruto.jpg`
 
 # Translate
   Command and Aliases | Description | Example
