@@ -26,5 +26,20 @@ class tlate(commands.Cog):
             embed.add_field(name = 'Pronunciation',value = pronun,inline=False)
         embed.set_footer(text='Powered by Google Translate')
         await ctx.send(embed = embed)
+    @commands.command()
+    async def dtect(self,ctx,*args):
+        query = " ".join(args)
+        res = tl.detect(query)
+        dtlang = res.lang
+        conf = res.confidence
+        rconf = round(int(conf)*100,2)
+        embed = discord.Embed(
+            title = 'Detect',
+            description = f'Query is in {dtlang}',
+            colour = ctx.author.top_role.colour
+        )
+        embed.add_field(name='Confidence',value = rconf + '%' ,inline= False)
+        embed.set_footer(text='Powered by Google Translate')
+        await ctx.send(embed = embed)
 def setup(client):
     client.add_cog(tlate(client))
