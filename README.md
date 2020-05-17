@@ -19,6 +19,7 @@ Full list of requirements
     websockets
     chardet
     pytz
+    Googletrans
 
 # Admin 
 
@@ -43,6 +44,13 @@ Command and Aliases | Description | Example
   Command and Aliases | Description | Example
 ----------------|--------------|-------
 `/sauce <image url (must end with extension)>` | Try to find the anime to which the image in question belongs to.(jpg,png,gif supported) | `/sauce https://somerubbish.com/naruto.jpg`
+
+# Translate
+  Command and Aliases | Description | Example
+----------------|--------------|-------
+`/tlate <language code (iso639-1)> <query>` | Translate query to the required language. | `/tlate en 안녕하세요`
+`/dtect <query>` | Detect the language of the query. | `/dtect 안녕하세요`
+
 
 License
 -------------
