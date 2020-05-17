@@ -50,6 +50,11 @@ Command and Aliases | Description | Example
 `/character <x>` | Search for the character x.| `/character nepgear`
 `/upcoming` | Top upcoming anime this season. | `/upcoming`
 
+# Sauce
+  Command and Aliases | Description | Example
+----------------|--------------|-------
+`/sauce <image url (must end with extension)>` | Try to find the anime to which the image in question belongs to.(jpg,png,gif supported) | `/sauce https://somerubbish.com/naruto.jpg`
+
 License
 -------------
     MIT License
