@@ -76,4 +76,4 @@ License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 # Credits
-Thanks to Myanimelist.net, Abhinav(https://github.com/abhinavk99) for Jikanpy wrapper,Discord.py and many more others..(sorry if I missed anyone..I am just starting out.)
+TBC
