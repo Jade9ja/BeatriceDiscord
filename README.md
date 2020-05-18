@@ -47,7 +47,9 @@ Command and Aliases | Description | Example
 `/dtect <query>` | Detect the language of the query. | `/dtect 안녕하세요`
 
 # Has more features...need to update this readme.
-Has a fun module,bot management commands and utility commands.
+  Has a fun module,bot management commands and utility commands.
+
+
 License
 -------------
     MIT License
