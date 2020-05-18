@@ -46,7 +46,7 @@ Command and Aliases | Description | Example
 `/tlate <language code (iso639-1)> <query>` | Translate query to the required language. | `/tlate en 안녕하세요`
 `/dtect <query>` | Detect the language of the query. | `/dtect 안녕하세요`
 
-
+# Has more features...need to update this readme.
 License
 -------------
     MIT License
@@ -71,4 +71,4 @@ License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 # Credits
-TBC
+Thanks to [Rapptz(Danny)](https://github.com/Rapptz) for discord.py wrapper,[AlexFlipnote](https://github.com/AlexFlipnote) ( Using his deployement method + the fun module),[abhinavk99](https://github.com/abhinavk99) for Jikan.py wrapper,twist.moe API (used in sauce module),Google for google translate and everyone else whom I forgot to mention here.
