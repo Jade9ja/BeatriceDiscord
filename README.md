@@ -74,4 +74,4 @@ License
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
 # Credits
-Thanks to [Rapptz(Danny)](https://github.com/Rapptz) for discord.py wrapper, [AlexFlipnote](https://github.com/AlexFlipnote) ,[abhinavk99](https://github.com/abhinavk99) for Jikan.py wrapper,twist.moe API (used in sauce module),Google for google translate and everyone else whom I forgot to mention here.
+Thanks to [Rapptz(Danny)](https://github.com/Rapptz) for discord.py wrapper, [AlexFlipnote](https://github.com/AlexFlipnote) ,[abhinavk99](https://github.com/abhinavk99) for Jikan.py wrapper,Trace.moe API (used in sauce module),Google for google translate and everyone else whom I forgot to mention here.
