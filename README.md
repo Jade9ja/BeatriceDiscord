@@ -7,19 +7,14 @@
 This bot uses the new version of [discord.py v1.0+](https://github.com/Rapptz/discord.py/tree/rewrite).  The docs are available [here](https://discordpy.readthedocs.io/en/latest/)
 More features will be added in time.
 
-Using `pip install discord.py` will install the latest discord.py version. 
-Install all requirements and run the main.py script wherever you plan to host your bot. [More detailed deployement method coming soon..]
+Using `pip install discord.py` will install the latest discord.py version.
 
-Full list of requirements
--------------
-
-    python>=3.6.0
-    discord.py>=1.3.0
-    aiohttp
-    websockets
-    chardet
-    pytz
-    Googletrans
+# Installation:
+1) Get your bot token (after creating one [here](https://discordapp.com/developers/applications/me)) You can refer to [this](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) tutorial here.
+2) Edit the "token" value in config.json to your own bot token which you got in step 1.
+3) In a shell/terminal (as an administrator/sudo) run *pip install -r requirements.txt* or *python -m pip install -r requirements.txt*
+4) Start the bot by running the main.py script. *python main.py*
+5) Give yourself a pat on the back! :P
 
 # Admin 
 
