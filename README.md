@@ -1,11 +1,11 @@
-# Beatrice
-![Avatar](https://static.myfigurecollection.net/pics/figure/big/436644.jpg)
+# AspiritusDiscord
+![Avatar](https://github.com/Jade9ja/BeatriceDiscord/blob/master/img/newavatar.jpg?raw=true)
 
 [![Python3](https://img.shields.io/badge/python-3.7-blue.svg)](https://github.com/Jade9ja/AspiritusDiscord)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Jade9ja/AspiritusDiscord/blob/master/LICENSE)
 
-This bot uses the new version of [discord.py v1.0+](https://github.com/Rapptz/discord.py/tree/rewrite)
-Will add more features as I discover stuff.Basic functionality (kick,ban,unban etc.) and an anime function for getting info about anime is currently added.
+This bot uses the new version of [discord.py v1.0+](https://github.com/Rapptz/discord.py/tree/rewrite).  The docs are available [here](https://discordpy.readthedocs.io/en/latest/)
+More features will be added in time.
 
 # Using `pip install discord.py` will install the latest discord.py version. 
 Install all requirements and run the main.py script on the server of your choice.
