@@ -1,5 +1,5 @@
-# AspiritusDiscord
-![Avatar](https://github.com/Jade9ja/BeatriceDiscord/blob/master/img/newavatar.jpg?raw=true)
+# DisPybot
+![Avatar](https://github.com/Jade9ja/AspiritusDiscord/blob/master/img/projecticon.jpg?raw=true)
 
 [![Python3](https://img.shields.io/badge/python-3.7-blue.svg)](https://github.com/Jade9ja/AspiritusDiscord)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Jade9ja/AspiritusDiscord/blob/master/LICENSE)
