@@ -1,1 +1,1 @@
-# Thanks to [AlexFlipnote](https://github.com/AlexFlipnote) for utils.
+# Thanks to https://github.com/AlexFlipnote for utils.
