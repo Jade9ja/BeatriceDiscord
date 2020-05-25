@@ -12,8 +12,8 @@ Using `pip install discord.py` will install the latest discord.py version.
 # Installation:
 1) Clone the repo to your machine and get your bot token (after creating one [here](https://discordapp.com/developers/applications/me)) , you can refer to [this](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token) tutorial here.
 2) Edit the "token" value in config.json to your own bot token which you got in step 1.
-3) In a shell/terminal (as an administrator/sudo) run *pip install -r requirements.txt* or *python -m pip install -r requirements.txt*
-4) Start the bot by running the main.py script. *python main.py*
+3) In a shell/terminal (as an administrator/sudo) run `pip install -r requirements.txt` or `python -m pip install -r requirements.txt`
+4) Start the bot by running the main.py script. `python main.py`
 5) Give yourself a pat on the back! :P
 
 # Admin 
